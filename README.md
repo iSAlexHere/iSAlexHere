@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<center><h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isalexhere&label=Profile%20views&color=0e75b6&style=flat" alt="isalexhere" /> </p>
@@ -55,4 +55,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isalexhere&show_icons=true&locale=en" alt="isalexhere" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isalexhere&" alt="isalexhere" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isalexhere&" alt="isalexhere" /></p></center>
