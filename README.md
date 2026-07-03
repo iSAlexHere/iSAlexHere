@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hey, I'm Alex!</h1>
-<h3 align="center">💻 A passionate developer from Spain 🇪🇸</h3>
+<h1 align="center">👋 ¡Hola, soy Alex!</h1>
+<h3 align="center">🖥️ IT Professional · Sysadmin · Game Server Infrastructure 🇪🇸 Madrid</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isalexhere&label=Profile%20views&color=0e75b6&style=flat" alt="isalexhere" />
@@ -17,26 +17,34 @@
   </a>
 </p>
 
-### <h2 align="center">🛠️ About Me</h2>
+## 🛠️ Sobre mí
+
+- 🏢 IT Support / Systems Administrator con **7+ años de experiencia** (HM Hospitales, Banco de España, NTT Data)
+- 🔍 Actualmente en búsqueda activa de nuevas oportunidades en **IT support / infraestructura** en Madrid
+- 🎮 Administro y desarrollo infraestructura para comunidades de gaming propias:
+  - **CelestialMC** — servidor de Minecraft modado (ATM10 / NeoForge)
+  - **Celestial Exiles** — servidor PVE de Conan Exiles
+  - **Rusticia** — servidor PVE de Rust
+- ⚙️ Trabajo diario con **Pterodactyl Panel + Wings**, Cloudflare, Nginx/Apache, Let's Encrypt
+- 💻 Desarrollo scripts de automatización (**KubeJS, JsMacros**), plugins de Minecraft y herramientas web
+- 🌐 También me muevo con soltura en **PowerShell, Active Directory, despliegue masivo Windows**
+- 📚 Formación: Ciclo Formativo de Grado Superior en Informática y Comunicaciones + certificaciones en JavaScript y diseño web
+
+## 🧰 Tecnologías y herramientas
+
 <p align="center">
-  🏢 I’m currently working at <strong>NTT DATA Corporation</strong><br>
-  📚 I’m currently learning <strong>TypeScript, CS & more</strong><br>
-  🤝 Looking to collaborate on <strong>FIVEM Projects</strong><br>
-  💬 Ask me about <strong>Lua, CSS, JavaScript, and HTML</strong><br>
-  🎨 I love experimenting with <strong>UI/UX design</strong> in my free time.<br>
-  📈 I'm passionate about improving my skills in <strong>data visualization</strong> and making complex data more understandable.<br>
-  🧑‍💻 I enjoy building <strong>automations</strong> and optimizing workflows for productivity.<br>
-  🌍 I’m always curious about the latest trends in <strong>web development</strong> and how technology shapes the world.<br>
-  🚀 I'm highly motivated to contribute to <strong>open-source projects</strong> and expand my coding community.<br>
-  🎮 In my downtime, you’ll find me playing <strong>FIVEM</strong> or working on game development projects.<br>
-  🎯 My next big goal is to master <strong>cloud infrastructure</strong> and become proficient in <strong>DevOps practices</strong>.
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,java,powershell,docker,linux,nginx,cloudflare" />
 </p>
 
-### <h2 align="center">📝 Latest Blog Posts</h2>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🎮 Proyectos destacados
 
-### <h2 align="center">🌐 Connect with Me</h2>
+- **CelestialMC** — servidor NeoForge/ATM10, sistemas de rangos (FTBRanks), efectos de chat con GLSL, tienda con Tebex
+- **Rusticia** — servidor Rust PVE con Carbon, EpicLoot, economía RP y sitios de referencia de loot tables
+- **ShellBlockHunt** — plugin de Minecraft publicado en BuiltByBit
+- Herramientas PowerShell para gestión de Active Directory y diagnóstico remoto
+
+## 🌐 Conecta conmigo
+
 <p align="center">
   <a href="https://codepen.io/araaxyss" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
@@ -47,21 +55,10 @@
   <a href="https://twitter.com/araaxyss" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <!-- Add more social links similarly -->
 </p>
 
-### <h2 align="center">🧰 Languages and Tools</h2>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
-  </a>
-  <!-- Add more tools similarly -->
-</p>
+## 📊 GitHub Stats
 
-### <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isalexhere&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -74,7 +71,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isalexhere" alt="GitHub Streak" />
 </p>
 
-### <h2 align="center">☕ Support Me</h2>
+## ☕ Apóyame
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/araaxyss">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
