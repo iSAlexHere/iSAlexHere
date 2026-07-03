@@ -1,83 +1,63 @@
-<h1 align="center">👋 ¡Hola, soy Alex!</h1>
-<h3 align="center">🖥️ IT Professional · Sysadmin · Game Server Infrastructure 🇪🇸 Madrid</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isalexhere&label=Profile%20views&color=0e75b6&style=flat" alt="isalexhere" />
-</p>
+# Alex · IT Support & Systems Engineer
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=isalexhere" alt="isalexhere" />
-  </a>
-</p>
+**Sysadmin en búsqueda activa · Madrid, España 🇪🇸**
 
-<p align="center">
-  <a href="https://twitter.com/araaxyss" target="blank">
-    <img src="https://img.shields.io/twitter/follow/araaxyss?logo=twitter&style=for-the-badge" alt="araaxyss" />
-  </a>
-</p>
+Mantengo infraestructura on-prem y en la nube, y construyo automatización para comunidades online con miles de usuarios activos.
 
-## 🛠️ Sobre mí
+[![Twitter](https://img.shields.io/badge/-@araaxyss-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/araaxyss)
+[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/araaxyss)
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/araaxyss)
 
-- 🏢 IT Support / Systems Administrator con **7+ años de experiencia** (HM Hospitales, Banco de España, NTT Data)
-- 🔍 Actualmente en búsqueda activa de nuevas oportunidades en **IT support / infraestructura** en Madrid
-- 🎮 Administro y desarrollo infraestructura para comunidades de gaming propias:
-  - **CelestialMC** — servidor de Minecraft modado (ATM10 / NeoForge)
-  - **Celestial Exiles** — servidor PVE de Conan Exiles
-  - **Rusticia** — servidor PVE de Rust
-- ⚙️ Trabajo diario con **Pterodactyl Panel + Wings**, Cloudflare, Nginx/Apache, Let's Encrypt
-- 💻 Desarrollo scripts de automatización (**KubeJS, JsMacros**), plugins de Minecraft y herramientas web
-- 🌐 También me muevo con soltura en **PowerShell, Active Directory, despliegue masivo Windows**
-- 📚 Formación: Ciclo Formativo de Grado Superior en Informática y Comunicaciones + certificaciones en JavaScript y diseño web
+</div>
 
-## 🧰 Tecnologías y herramientas
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,java,powershell,docker,linux,nginx,cloudflare" />
-</p>
+## Ahora mismo
 
-## 🎮 Proyectos destacados
+- 🔍 Buscando mi próximo puesto en **IT support / infraestructura** en Madrid
+- 🎮 Administrando **CelestialMC** (Minecraft NeoForge), **Celestial Exiles** (Conan Exiles) y **Rusticia** (Rust) — servidores PVE con cientos de jugadores activos
+- ⚙️ Automatizando despliegues con **Pterodactyl + Wings**, Cloudflare y scripting en KubeJS/JsMacros
 
-- **CelestialMC** — servidor NeoForge/ATM10, sistemas de rangos (FTBRanks), efectos de chat con GLSL, tienda con Tebex
-- **Rusticia** — servidor Rust PVE con Carbon, EpicLoot, economía RP y sitios de referencia de loot tables
-- **ShellBlockHunt** — plugin de Minecraft publicado en BuiltByBit
-- Herramientas PowerShell para gestión de Active Directory y diagnóstico remoto
+<br>
 
-## 🌐 Conecta conmigo
+## Stack
 
-<p align="center">
-  <a href="https://codepen.io/araaxyss" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/araaxyss" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/araaxyss" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+| Área | Herramientas |
+|---|---|
+| **Sysadmin** | PowerShell · Active Directory · Windows Server · Linux |
+| **Infraestructura** | Pterodactyl · Docker · Nginx · Cloudflare · Let's Encrypt |
+| **Desarrollo** | JavaScript/TypeScript · React · Java · KubeJS |
+| **Redes de juego** | NeoForge · Carbon (Rust) · RCON automation |
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isalexhere&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## Proyectos destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isalexhere&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+**[CelestialMC](https://github.com/isalexhere)** — Servidor Minecraft ATM10/NeoForge con sistema de rangos por horas jugadas (FTBRanks), efectos de chat animados vía shaders GLSL y tienda integrada con Tebex.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isalexhere" alt="GitHub Streak" />
-</p>
+**Rusticia** — Servidor Rust PVE con economía roleplay propia, sets de EpicLoot personalizados y sitio de referencia de loot tables autoalojado.
 
-## ☕ Apóyame
+**ShellBlockHunt** — Plugin de Minecraft publicado en BuiltByBit, compilado con Maven.
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/araaxyss">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-  <a href="https://ko-fi.com/araaxyss">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
-  </a>
-</p>
+<br>
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=isalexhere&show_icons=true&theme=transparent&hide_border=true&hide_title=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalexhere&layout=compact&theme=transparent&hide_border=true&hide_title=true" height="165" alt="Top Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+📫 **Contacto:** [Twitter/X](https://twitter.com/araaxyss) · [Dev.to](https://dev.to/araaxyss)
+
+<sub>☕ <a href="https://www.buymeacoffee.com/araaxyss">Buy me a coffee</a> · <a href="https://ko-fi.com/araaxyss">Ko-fi</a></sub>
+
+</div>
